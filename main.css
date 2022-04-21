@@ -26,4 +26,6 @@ h3 {
 p {
     font-size: 20px;
     padding: ch;
+    font-style: oblique;
+    font-family: helvetica;
 }

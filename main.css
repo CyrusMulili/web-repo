@@ -3,14 +3,14 @@ html {
 }
 
 body {
-    background-color: #333;
+    background-color: rgb(24, 16, 16);
     color: whitesmoke;
 }
 
 h1 {
-    font-size: 50px;
-    font-style: italic;
-    color: gray;
+    font-size: 40px;
+    font-size: larger;
+    color: rgb(231, 225, 225);
 }
 
 h2 {

@@ -6,3 +6,19 @@ body {
     background-color: #333;
     color: whitesmoke;
 }
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    color: gray;
+}
+
+h2 {
+    font-size: 15px;
+    font-style: normal;
+    color: antiquewhite;
+}
+
+h3 {
+    font-size: 25px;
+}

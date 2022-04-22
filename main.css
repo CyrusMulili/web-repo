@@ -3,7 +3,7 @@
         }
         
         body {
-            background-color: rgb(0, 0, 0);
+            background-color: #333;
             color: whitesmoke;
         }
         
@@ -34,7 +34,7 @@
         
         li {
             font-size: 20px;
-            font-family: arial;
+            font-family: Arial;
         }
         
         dl {
@@ -44,4 +44,17 @@
         dt {
             font-size: 20px;
             font-family: arial;
+        }
+        
+        a {
+            color: aliceblue;
+        }
+        
+        a:visited {
+            color: lightgray;
+        }
+        
+        a:hover,
+        a:active {
+            color: #eee;
         }
